@@ -143,7 +143,7 @@ pip install eth-account
 
 If your personal computer is not powerful enough, you can rent a VPS with high configuration:
 
-**Trusted VPS Provider**: [VinaHost](https://secure.vinahost.vn/ac/aff.php?aff=3103)
+**Trusted VPS Provider**: [VinaHost](https://secure.vinahost.vn/ac/aff.php?aff=3103) - [Datamart](https://www.databasemart.com/?aff_id=e2e55c86959b4d278a38c59bb2070cd2) - [MTDVPS](https://mtdvps.com/ref/13664)
 
 **Recommended FlexProVPS Custom Configuration**:
 - **CPU**: 15+ cores (recommended 20-32 cores)
