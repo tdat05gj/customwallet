@@ -147,7 +147,7 @@ If your personal computer is not powerful enough, you can rent a VPS with high c
 
 **Recommended FlexProVPS Custom Configuration**:
 - **CPU**: 15+ cores (recommended 20-32 cores)
-- **RAM**: 6-12GB
+- **RAM**: 4-12GB
 - **Storage**: SSD NVMe
 - **OS**: Windows Server 2022
 
