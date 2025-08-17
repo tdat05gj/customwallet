@@ -135,7 +135,7 @@ pip install eth-account
 ## 📈 Performance Optimization
 
 1. **CPU**: Use CPU with many cores
-2. **RAM**: Minimum 8GB to run multiple processes
+2. **RAM**: Minimum 4GB to run multiple processes
 3. **SSD**: Helps write files faster
 4. **Cooling**: Ensure good cooling for long-term operation
 
